@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Go-Starboy</h1>
+    <img src="ehe.jpg">
+    <h2>Mau Jadi apa hari ini?</h2>
+    <div class="Cards">
+        <div class="card" style="width: 18rem;">
+            <img src="ayam.jpg" class="card-img-top" alt="ayam">
+            <div class="card-body">
+              <h5 class="card-title">Ayam</h5>
+              <p class="card-text">10.000</p>
+            <div class="btn-qty">
+                <button>
+                    -
+                </button>
+                <span>1</span>
+                <button>
+                    +
+                </button>
+            </div>
+            <a href="#" class="btn btn-primary">Add</a>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="bull.png" class="card-img-top" alt="bull">
+                <div class="card-body">
+                  <h5 class="card-title">Banteng</h5>
+                  <p class="card-text">200.000</p>
+                <div class="btn-qty">
+                    <button>
+                        -
+                    </button>
+                    <span>1</span>
+                    <button>
+                        +
+                    </button>
+                </div>
+                <a href="#" class="btn btn-primary">Add</a>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <img src="cow.png" class="card-img-top" alt="cow">
+                    <div class="card-body">
+                      <h5 class="card-title">Sapi</h5>
+                      <p class="card-text">5.000.000</p>
+                    <div class="btn-qty">
+                        <button>
+                            -
+                        </button>
+                        <span>1</span>
+                        <button>
+                            +
+                        </button>
+                    </div>
+                    <a href="#" class="btn btn-primary">Add</a>
+                    </div>
+          </div>
+    </div>
+</body>
